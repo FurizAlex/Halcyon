@@ -1,2 +1,2 @@
 # Halcyon
-General Purpose Library for the Pyxis Programming Language.
+General Standard Library for the Pyxis Programming Language.
