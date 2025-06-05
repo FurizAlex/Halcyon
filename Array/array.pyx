@@ -1,6 +1,6 @@
 @extends #Dev::tool
 
-class Array:
+@export class Array:
 	var data
 
 	func init():

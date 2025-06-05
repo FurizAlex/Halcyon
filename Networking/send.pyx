@@ -1,4 +1,4 @@
 @extends #Dev::tool
 
-defi send(socket, data >> string) <--> Void:
+@export defi send(socket, data >> string) <--> Void:
 	socket.write(data)

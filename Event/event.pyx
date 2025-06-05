@@ -1,6 +1,6 @@
 @extends #Dev::tool
 
-class EventEmitter:
+@export class EventEmitter:
 	var listeners
 
 	func init():

@@ -1,6 +1,6 @@
 @extends #Dev::tool
 
-defi max(a, b):
+@export defi max(a, b):
 	if a > b:
 		return a
 	else:

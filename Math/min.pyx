@@ -1,6 +1,6 @@
 @extends #Dev::tool
 
-defi min(a, b):
+@export defi min(a, b):
 	if a < b:
 		return a
 	else:

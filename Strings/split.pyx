@@ -1,6 +1,6 @@
 @extends #Dev::tool
 
-@t $func split(str, delimiter) <--> Array:
+@export defi split(str, delimiter) <--> Array:
     var result::[]
     var temp::""
     for char in str:
